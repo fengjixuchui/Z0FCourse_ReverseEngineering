@@ -12,10 +12,9 @@ Here are some ways you can let me know about, or submit, your contribution.
 
 * Make a pull request.
 * Open an issue.
-* Contact me on [Twitter](https://twitter.com/0xZ0F).
 * Contact me on Discord.
-    * Username: @z0f
-    * Server: [https://discord.gg/73tkPGv](https://discord.gg/73tkPGv)
+  * Username: @z0f
+  * Server: [https://discord.gg/73tkPGv](https://discord.gg/73tkPGv)
 
 ## Types Of Contribution
 
@@ -31,5 +30,5 @@ Any contributions are accepted as long as they improve the course in some way.
 ## Standards
 
 * Be sure everything you contribute is accurate. I will fact check everything myself as well.
-* The language in the course needs to be professional (no vulgar language or slang). 
+* The language in the course needs to be professional (no vulgar language or slang).
 * I don't expect you to dedicate egregious amounts of time contributing. For example, if there is a broken link in every lesson instead of fixing every link yourself, let me know and I'll fix them.
